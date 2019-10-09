@@ -45,7 +45,7 @@ You can find me several places online, besides here.<br>
 
 <i class="fab fa-mastodon" style="padding-right: 10px; color: #666666;"></i><a href="https://mastodon.technology/@DigitalMisfit" style="color: skyblue;">Mastodon</a><br>
 
-<a href="https://twitch.tv/officialdigitalmisfit" style="color: skyblue;">Twitch</a><br>
+<i class="fab fa-twitch" style="padding-right: 10px; color: #666666;"></i><a href="https://twitch.tv/officialdigitalmisfit" style="color: skyblue;">Twitch</a><br>
 
 <i class="fab fa-instagram" style="padding-right: 10px; color: #666666;"></i><a href="https://www.instagram.com/the.digital.misfit/" style="color: skyblue;">Instagram</a> <br>
 
