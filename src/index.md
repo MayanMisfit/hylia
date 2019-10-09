@@ -5,7 +5,7 @@ metaTitle: Stuff And Things | Digital Misfit
 metaDesc: 'The personal website of Digital Misfit, The code tinkerer'
 postsHeading: The Ravings Of A Lunatic
 archiveButtonText: See all posts
-socialImage: /images/logo.png
+socialImage: ''
 ---
 I'm Johnny, I do things, and I sometimes don't things. I was born and currently still live on a pebble in the UK, a pebble called Jersey. It's a tiny, over-crowded pebble, but it's my pebble.
 
@@ -21,7 +21,7 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 <li>Did I mention Bunnies are Evil?</li>
 <li>Proud Supporter of the <a href="https://www.youtube.com/channel/UCU3gwpclVZSYofj616OQKLQ/" style="color: pink;">Mischief</a></li>
 <li>Bunnies really are EVIL</li>
-<li>Smile More, you're beautiful! <img src="/images/smile.png" height="50" style="padding-left:5px; vertical-align:middle; "></li>
+<li>Smile More, you're beautiful! <img src="/images/smile.png" height="25" style="padding-left:5px; vertical-align:middle; "></li>
 </ul>
 <hr/>
   
