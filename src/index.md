@@ -23,7 +23,7 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 
 <li>I 3D print things</li>
 
-<li>I'm highly unprofessional</li>
+<li>I can be professional... sometimes.</li>
 
 <li>Did I mention Bunnies are Evil?</li>
 
