@@ -3,7 +3,6 @@ title: Overseers of the Terra
 date: 2019-03-05T22:28:00.000Z
 tags:
   - writing
-  - null
 ---
 The clearly wounded ship had been pulled in to the largest of the Amaru's docking bays and val'len was staring at it intently. \
 Saria and Darkmoon were gathered around him, weapons at the ready. \
