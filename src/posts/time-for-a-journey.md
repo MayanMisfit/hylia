@@ -5,7 +5,6 @@ date: 2019-10-11T13:34:14.434Z
 tags:
   - Journey
   - metaphorical
-  - ''
 ---
 <figure>
 <img src="/images/sunset.png" alt="Picture Of A Sunset">
