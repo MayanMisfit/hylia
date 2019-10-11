@@ -7,4 +7,6 @@ tags:
   - metaphorical
   - ''
 ---
+<img src="/images/sunset.png" alt="Picture Of A Sunset">
+
 <blockquote>Good company in a journey makes the way seem shorter. — <cite>Izaak Walton</cite> </blockquote>
