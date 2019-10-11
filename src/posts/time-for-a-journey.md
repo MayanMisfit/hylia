@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Time for a journey
+title: Time For A Journey
 date: 2019-10-11T13:34:14.434Z
 tags:
   - Journey
