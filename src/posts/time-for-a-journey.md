@@ -8,8 +8,7 @@ tags:
 ---
 <div align="center">
 <figure>
-<img src="/images/sunset.png" alt="Picture Of A Sunset" height="400">
-<figcaption>Lets go fly a kite</figcaption>
+<img src="/images/sunset.png" alt="Picture Of A Sunset" height="400"><figcaption>Lets go fly a kite</figcaption>
 </figure>
 </div>
 <blockquote>Good company in a journey makes the way seem shorter. — <cite>Izaak Walton</cite> </blockquote>
