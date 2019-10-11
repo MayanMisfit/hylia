@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Stuff And Thangs
-permalink: stuff
+permalink: /stuff/index.html
 ---
 I'm Johnny, I do things, and I sometimes don't things. I was born and currently still live on a pebble in the UK, a pebble called Jersey. It's a tiny, over-crowded pebble, but it's my pebble.<ul style="padding-left:75px;">
 <li>I'm a tinkerer</li>
