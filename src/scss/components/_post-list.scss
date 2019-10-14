@@ -6,7 +6,7 @@
   &__link {
     &,
     &:visited {
-      color: #977316;
+      color: var(--color-rod);
       text-decoration: none;
     }
 
