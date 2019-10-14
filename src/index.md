@@ -37,7 +37,7 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 
 <hr/>
 
-  
+  <!-- Curse ya mad god, may you become cheese eternally gnawed on by skeevers!. -->
 
 You can find me several places online, besides here.<br>
 
