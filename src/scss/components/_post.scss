@@ -19,7 +19,7 @@
     }
 
     a:not([class]) {
-      color: #977316;
+      color: var(--color-rod);
       position: relative;
       display: inline-block;
       background: var(--color-theme-highlight);
