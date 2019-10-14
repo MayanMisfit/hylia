@@ -6,12 +6,12 @@
   &__link {
     &,
     &:visited {
-      color: var(--color-theme-primary);
+      color: #DAA520
       text-decoration: none;
     }
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
   }
 }
