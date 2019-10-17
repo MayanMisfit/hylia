@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Fucked Up Day
 metaTitle: Ask Molly | Newsletter
 metaDesc: Snippet taken from the ask molly newsletter
-date: 2019-10-17T13:34:14.434Z
+date: 2019-10-17T07:00:00.000Z
 tags:
   - Ask Molly
   - AskMolly
