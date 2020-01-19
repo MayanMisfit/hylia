@@ -25,7 +25,7 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 
 <li>I can be professional... sometimes.</li>
 
-<li>Did I mention Bunnies are Evil?</li>
+<li>Did I mention BUNNIES ARE EVIL?</li>
 
 <li>Proud Supporter of the <a href="https://www.youtube.com/channel/UCU3gwpclVZSYofj616OQKLQ/" style="color: pink;">Mischief</a></li>
 
@@ -37,7 +37,7 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 
 <hr/>
 
-  <!-- Curse ya mad god, may you become cheese eternally gnawed on by skeevers!. -->
+<!-- Curse ya mad god, may you become cheese eternally gnawed on by skeevers!. -->
 
 You can find me several places online, besides here.<br>
 
