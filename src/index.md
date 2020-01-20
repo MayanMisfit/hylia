@@ -29,7 +29,7 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 
 <li>Proud Supporter of the <a href="https://www.youtube.com/channel/UCU3gwpclVZSYofj616OQKLQ/" style="color: pink;">Mischief</a></li>
 
-<li>Bunnies really are EVIL</li>
+<li>Bunnies really are EVIL!</li>
 
 <li>Smile More, you're beautiful! <img src="/images/smile.png" height="25" style="padding-left:5px; vertical-align:middle; "></li>
 
@@ -37,7 +37,8 @@ I'm Johnny, I do things, and I sometimes don't things. I was born and currently 
 
 <hr/>
 
-  <!-- Curse ya mad god, may you become cheese eternally gnawed on by skeevers!. -->
+  
+<!-- Curse ya mad god, may you become cheese eternally gnawed on by skeevers!. -->
 
 You can find me several places online, besides here.<br>
 
