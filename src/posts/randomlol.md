@@ -1,10 +1,12 @@
 ---
+layout: layouts/post.njk
 title: Random LOL
-date: 2020-05-04T22:28:00.000Z
-summary: > 
-Random text
+metaTitle:
+metaDesc: 
+date: 2020-05-04T07:00:00.000Z
 tags:
-  - random
+  - Random
+  -
 ---
 
 
